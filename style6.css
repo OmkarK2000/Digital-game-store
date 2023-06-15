@@ -1,0 +1,22 @@
+.main {
+    min-height: 80vh;
+    background: url(images/bg7.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.home{
+    box-shadow: 10px 5px 5px skyblue;
+    border: 2px solid skyblue ;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.carts{
+    display: flex;
+    flex-direction: column;
+}
+
